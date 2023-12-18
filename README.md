@@ -4,7 +4,7 @@
 statisitical analytics and applied machine learning. Enthusiast of coding and 
 data visualization. </h3>
 
-<img align="right" height="150" width="210" src="data.gif">
+<img align="right" height="150" width="210" src="giphy.gif">
 
 - 🔭 I’m currently working on SP3D and this @wpscode can help me maintain all my work at WPS!
 - 👀 I’m interested in college football, learning new coding skills and exploring new feaures of GitHub.
