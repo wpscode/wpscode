@@ -1,7 +1,7 @@
 <h1 align="left"> Hey there, I'm Nan Wang 👋 </h1>
 
 <h3 align="left">  I'm a data management specialist who is interested in 
-statisitical analytics and applied machine learning. Enthusiast of coding and 
+statisitical analysis and applied machine learning. Enthusiast of coding and 
 data visualization. </h3>
 
 <img align="right" height="150" width="210" src="giphy.gif">
