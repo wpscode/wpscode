@@ -1,5 +1,8 @@
 <h1 align="left"> Hey there, I'm Nan 👋 </h1>
 
+<h3 align="left">  I'm a data management specialist who is interested in 
+statisitical analytics and applied machine learning. Enthusiast of coding and illustration. Internet citizen. </h3>
+
 - 🔭 I’m currently working on SP3D and this @wpscode can help me maintain all my work at WPS!
 - 👀 I’m interested in college football, learning new coding skills and exploring new feaures of GitHub.
 - 🌱 I’m currently learning deep learning.
