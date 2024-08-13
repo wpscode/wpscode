@@ -6,7 +6,7 @@ data visualization. </h3>
 
 <img align="right" height="150" width="210" src="giphy.gif">
 
-- 🔭 I’m currently working on SP3D,APLS,SRS3,... and this @wpscode can help me maintain all my work at WPS!
+- 🔭 I’m currently working on the project of SP3D, APLS, SRS3, RCMAS3, ... and this @wpscode can help me maintain all my work at WPS!
 - 👀 I’m interested in college football, learning new coding skills and exploring new feaures of GitHub.
 - 🌱 I’m currently learning deep learning.
 - 😄 Pronouns: he/him
